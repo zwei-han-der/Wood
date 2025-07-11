@@ -60,6 +60,7 @@ lib/
 - 🔥 Firebase (Auth, Firestore)
 - 🧩 Provider
 
+<<<<<<< HEAD
 ## 🤝 Contribuição
 1. Faça um fork do projeto 🍴
 2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
@@ -68,4 +69,7 @@ lib/
 5. Abra um Pull Request 🚀
 
 ## 📄 Licença
+=======
+## Licença
+>>>>>>> ea11946776c8641bd662fc25f7bbad4e5cfd1ed6
 Este projeto está sob a licença MIT.
