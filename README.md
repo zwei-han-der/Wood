@@ -60,12 +60,5 @@ lib/
 - Firebase (Auth, Firestore)
 - Provider
 
-## Contribuição
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
-3. Commit suas alterações (`git commit -m 'Minha feature'`)
-4. Push para a branch (`git push origin minha-feature`)
-5. Abra um Pull Request
-
 ## Licença
 Este projeto está sob a licença MIT.
